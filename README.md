@@ -11,7 +11,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/affisjunianto/botwasapv5
+> git clone https://github.com/bromo-dark/botwasappv5
 ```
 
 ## Install the dependencies:
@@ -19,7 +19,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd botwasapv5
+> cd botwasappv5
 > bash install.sh
 ```
 
